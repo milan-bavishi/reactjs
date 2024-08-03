@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload This is Enter By Milan Bavishi In AWS-EC2.
+          <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita vero quibusdam totam, id est asperiores.</h1>
         </p>
         <a
           className="App-link"
